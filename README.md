@@ -22,6 +22,6 @@ Mi nombre es Jesus Manuel Perez, y soy desarrollador web Full Stack 🌱
 
 ## Estadisticas 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=jesusmpds&show_icons=true&theme=radical&hide_border=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusmpds&layout=compact&theme=radical&hide_border=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=jesusmpds&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusmpds&layout=compact&theme=radical)
 
 
