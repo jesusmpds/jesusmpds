@@ -1,5 +1,5 @@
 # Hi there / Hola 👋✨
-[![Linkedin Badge](https://img.shields.io/badge/-Jesus_Manuel_Perez-purple?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jesusmanuelperez/)](https://www.linkedin.com/in/jesusmanuelperez/) ![visitors](https://visitor-badge.glitch.me/badge?page_id=jesusmpds.jesusmpds&color=purple) 
+[![Linkedin Badge](https://img.shields.io/badge/-Jesus_Manuel_Perez-purple?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jesusmanuelperez/)](https://www.linkedin.com/in/jesusmanuelperez/) [![Visits Badge](https://badges.pufler.dev/visits/jesusmpds/jesusmpds?color=blueviolet)](https://badges.pufler.dev) ![visitors](https://visitor-badge.glitch.me/badge?page_id=jesusmpds.jesusmpds&color=purple) 
 
 Mi nombre es Jesus Manuel Perez, y soy desarrollador web Full Stack 🌱
 
