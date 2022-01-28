@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there / Hola 👋✨
+[![Linkedin Badge](https://img.shields.io/badge/-Jesus_Manuel_Perez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jesusmanuelperez/)](https://www.linkedin.com/in/jesusmanuelperez/) 
 
-<!--
-**jesusmpds/jesusmpds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mi nombre es Jesus Manuel Perez, y soy desarrollador web Full Stack 🌱
 
-Here are some ideas to get you started:
+- 🔭Actualmente estoy buscando un trabajo de desarrollador Full Stack o Node JS Backend.
+- ⚡ Datos curisoso: Trabaje en marketing durante 4 años 😮
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Tecnologías que manejo
+
+
+
+## Estadisticas 
+
+![github stats](https://github-readme-stats.vercel.app/api?username=jesusmpds&show_icons=true&theme=radical)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=jesusmpds.jesusmpds) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusmpds&layout=compact&theme=radical&hide_border=true)
