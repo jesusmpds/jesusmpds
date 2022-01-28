@@ -6,9 +6,19 @@ Mi nombre es Jesus Manuel Perez, y soy desarrollador web Full Stack 🌱
 - 🔭Actualmente estoy buscando un trabajo de desarrollador Full Stack o Node JS Backend.
 - ⚡ Datos curisoso: Trabaje en marketing durante 4 años 😮
 
-##Tecnologías que manejo
+## Tecnologías que manejo
 
-
+- HTML5
+- CSS3
+- SASS
+- GIT
+- Javascript ES6+
+- React
+- GraphQL
+- Postman
+- Node
+- Express
+- Heroku
 
 ## Estadisticas 
 
