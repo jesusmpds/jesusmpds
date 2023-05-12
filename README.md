@@ -19,6 +19,8 @@ Mi nombre es Jesus Manuel Perez, y soy desarrollador web Full Stack 🌱
 - Express
 - Heroku
 - MongoDB
+- Netlify Functions
+- REST API Integrations
 
 ## Estadisticas 
 
