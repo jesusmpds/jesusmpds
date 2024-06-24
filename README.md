@@ -3,8 +3,6 @@
 
 Mi nombre es Jesus Manuel Perez, y soy desarrollador web Full Stack 🌱
 
-- ⚡ Datos curisoso: Trabaje en marketing durante 4 años 😮
-
 ## Tecnologías que manejo
 
 - HTML5
